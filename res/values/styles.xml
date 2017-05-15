@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">#e1730c</item>
+    </style>
+
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:background">@drawable/screen</item>
+        <item name="colorPrimaryDark">#e1730c</item>
+    </style>
+
+</resources>
